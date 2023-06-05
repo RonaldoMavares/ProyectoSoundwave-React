@@ -14,5 +14,15 @@ module.exports = {
       },
     },
   },
+  theme: {
+    extend: {
+      colors: {
+        vinotinto: '#84043f',
+        vinotinto2: '#490122',
+        azulElectrico: '#2fb0c0',
+        azulElectrico2: '#20828e',
+      },
+    },
+  },
   plugins: [],
 }

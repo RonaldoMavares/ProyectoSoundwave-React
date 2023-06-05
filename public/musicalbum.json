@@ -1,0 +1,17 @@
+{
+    "musicCards": [
+        {
+            "nombreAlbum": "Epoch",
+            "albumCover": "https://upload.wikimedia.org/wikipedia/en/f/f1/Tycho_-_Epoch.jpg",
+            "albumCantante":"Tycho"
+        },{
+            "nombreAlbum": "Midnights",
+            "albumCover": "https://upload.wikimedia.org/wikipedia/en/9/9f/Midnights_-_Taylor_Swift.png",
+            "albumCantante":"Taylor Swift"
+        },{
+            "nombreAlbum": "This is Acting",
+            "albumCover": "https://upload.wikimedia.org/wikipedia/en/f/fd/Thisisacting_albumcover.png",
+            "albumCantante":"SIA"
+        }
+    ]
+}
